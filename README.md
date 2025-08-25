@@ -1,0 +1,2 @@
+# AI-Powered-Real-Time-Object-Detection-and-Distance-Estimation-System-
+An AI-powered real-time object detection system using YOLOv8 that identifies multiple objects, maintains consistent tracking with unique IDs, and estimates distances through camera calibration. GPU-optimized for high-performance applications in surveillance, robotics, and autonomous systems requiring precise environmental awareness.
